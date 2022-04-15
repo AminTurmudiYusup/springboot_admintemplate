@@ -1,4 +1,4 @@
-# springboot_admintemplate_bootstrap
+# springboot_admintemplate
 This project describe, how to configuration springboot with thymeleaf and admin template using bootstrap 5
 
 # Prerequisite
